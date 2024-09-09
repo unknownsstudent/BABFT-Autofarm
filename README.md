@@ -1,0 +1,2 @@
+# BABFT-Autofarm
+w script
